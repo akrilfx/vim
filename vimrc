@@ -5,6 +5,7 @@ set nowrap
 " Colorscheme
 set background=dark
 colorscheme solarized
+
 " Turn on line numbers
 set number
 set numberwidth=4
