@@ -4,7 +4,7 @@ set nocompatible
 set nowrap
 " Colorscheme
 set background=dark
-colorscheme tomorrow_night
+colorscheme solarized
 " Turn on line numbers
 set number
 set numberwidth=4
