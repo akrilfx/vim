@@ -203,4 +203,3 @@ nmap <leader>a <Esc>:Ack!
 
 nmap <leader>pd :setlocal ft=python.django<CR>
 nmap <leader>hd :setlocal ft=htmldjango<CR>
-
